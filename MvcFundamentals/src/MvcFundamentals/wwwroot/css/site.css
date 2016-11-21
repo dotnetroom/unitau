@@ -35,4 +35,7 @@ textarea {
   .carousel-caption {
     display: none
   }
-}
+
+  .teste{
+      background: #000;
+  }
